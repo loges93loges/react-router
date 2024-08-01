@@ -28,7 +28,7 @@ const App = () => {
           <Route path="/fullstackdevelopment" element={<FullStackDevelopment />} />
           <Route path="/datascience" element={<DataScience />} />
           <Route path="/cybersecurity" element={<CyberSecurity />} />
-          <Route path="/career" element={<Machine />} />
+          <Route path="/Machine" element={<Machine />} />
           <Route path="/career" element={<Career />} />
         </Routes>
       </div>
