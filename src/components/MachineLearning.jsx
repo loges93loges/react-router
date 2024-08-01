@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Machine  = () => {
+const MachineLearning  = () => {
   return (
     <div className='box'>
       <img src='images\OIP.jpeg' />
@@ -11,4 +11,4 @@ const Machine  = () => {
   );
 };
 
-export default Machine;
+export default MachineLearning;
